@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on liloo</title>
+    <link>https://quiltpotren.github.io/liloo/tags/</link>
+    <description>Recent content in Tags on liloo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://quiltpotren.github.io/liloo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iphone</title>
+      <link>https://quiltpotren.github.io/liloo/tags/iphone/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://quiltpotren.github.io/liloo/tags/iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phone</title>
+      <link>https://quiltpotren.github.io/liloo/tags/phone/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://quiltpotren.github.io/liloo/tags/phone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
